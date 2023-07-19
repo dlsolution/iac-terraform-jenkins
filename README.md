@@ -1,4 +1,4 @@
-# Provision the EKS cluster
+# Provision Jenkins
 
 ```bash
 terraform init
